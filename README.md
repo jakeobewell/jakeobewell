@@ -1,8 +1,5 @@
 ### Hello!
 
-<!--
-**jakeobewell/jakeobewell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Jakeob Ewell, I am a Fullstack developer from Flagstaff, Arizona. I wanted to become a developer in order to feel more engaged and satisfied in my career. Other lines of work begin to feel stagnant after a while, but coding always presents a challenge and offers opportunity to learn and progress. There is nothing quite like getting a feature or project to run after hours of work. I love feeling that real sense of accomplishment after finishing a project. When I built my first React project *DiscAssist*, I got such a feeling of pride and satisfaction. And that feeling of fulfillment happens each time a project is built. 
 
 #### Skills and Tools
