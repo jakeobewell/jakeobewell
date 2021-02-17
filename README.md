@@ -21,6 +21,6 @@ A solo project application that uses React, PostgreSQL, Webpack, and Express. It
 
 ## Contact Me
 
-Email: jakeob_e@yahoo.com
-[LinkedIn](https://www.linkedin.com/in/jakeob-ewell-767489202/)
+- Email: jakeob_e@yahoo.com
+- [LinkedIn](https://www.linkedin.com/in/jakeob-ewell-767489202/)
 
