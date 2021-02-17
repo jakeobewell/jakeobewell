@@ -11,13 +11,15 @@ My name is Jakeob Ewell, I am a Fullstack developer from Flagstaff, Arizona. I w
 
 A solo project single page application that uses AJAX to request data from an API. The user can enter search parameters for cooking recipes and receive a list of recipes that can be favorited for later use. 
 
-[Link to live demo](https://jakeobewell.github.io/ajax-project/)
+- [Link to live demo](https://jakeobewell.github.io/ajax-project/)
+- [Github](https://github.com/jakeobewell/ajax-project)
 
 **DiscAssist**
 
 A solo project application that uses React, PostgreSQL, Webpack, and Express. It's an application for disc golfers to record and view scores when playing disc golf.
 
-[Link to live demo](http://disc-assist.herokuapp.com/)
+- [Link to live demo](http://disc-assist.herokuapp.com/)
+- [Github](https://github.com/jakeobewell/Disc-Assist)
 
 ## Contact Me
 
